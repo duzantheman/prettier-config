@@ -1,0 +1,20 @@
+{
+  "name": "@cgduzan/prettier-config",
+  "version": "1.0.0",
+  "description": "My central Prettier config file",
+  "main": "index.js",
+  "author": "Chris Duzan",
+  "license": "ISC",
+  "homepage": "https://github.com/duzantheman/prettier-config",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/duzantheman/prettier-config.git"
+  },
+  "bugs": {
+    "url": "https://github.com/duzantheman/prettier-config/issues"
+  },
+  "peerDependencies": {
+    "prettier": ">=2.7.1",
+    "@trivago/prettier-plugin-sort-imports": ">=3.3.0"
+  }
+}
